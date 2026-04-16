@@ -1,6 +1,5 @@
 <?php
 $dev = "Hello World, ";
-$nome = "Eu sou o Rhian";
-echo $dev;
-echo $nome;
+$nome = "eu sou o Rhian";
+echo $dev, $nome;
 ?>
